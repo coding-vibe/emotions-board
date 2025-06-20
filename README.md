@@ -11,8 +11,6 @@ Emotions Board Web Application - a modern, user-friendly web application where u
 
 ## Tech stack
 
-FE:
-
 - React
 - TypeScript
 - Next.js
