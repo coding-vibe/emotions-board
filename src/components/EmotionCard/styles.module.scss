@@ -1,0 +1,13 @@
+.emotionCard {
+  position: relative;
+  background-color: var(--card-color);
+
+  &Icon {
+    top: 7px;
+    right: 7px;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    color: currentColor;
+  }
+}

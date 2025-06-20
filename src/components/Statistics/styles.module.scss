@@ -1,0 +1,10 @@
+.statistics {
+  &Wrapper {
+    max-width: 500px;
+  }
+
+  &Card {
+    border-radius: 0.5rem;
+    background-color: var(--card-color);
+  }
+}
